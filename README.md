@@ -1,5 +1,5 @@
 <h1>Rapid Gym</h1>
-<p>This is a nice gymnastic webpage with mobile friendly view such as a user can choose workout based on target body part and filter out of three options like equipment based search, muscle based search and also user prefernece search. The one new feature is youtube video recommendation based on the search results. Also related musucle group exercises and body part exercises.</p>
+<p>This is a nice gymnastic webpage with mobile friendly view such as a user can choose workout based on target body part and filter out of three options like equipment based search, muscle based search and also user prefernece search. The one new feature integrated which is youtube video recommendation based on the search results. Also related musucle group exercises and body part exercises.</p>
 <h1>API View</h1>
 <h5>Exercise DB API</h5>
 <p>A database API containing 1300+ exercises with body part, target muscle equipment necessary, and a form and follow-through animation. If you wanna to checkout the documentation <a href="https://v2.exercisedb.io/docs">click here</a></p>
