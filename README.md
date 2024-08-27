@@ -1,0 +1,20 @@
+<h1>Rapid Gym</h1>
+<p>This is a nice gymnastic webpage with mobile friendly view such as a user can choose workout based on target body part and filter out of three options like equipment based search, muscle based search and also user prefernece search. The one new feature is youtube video recommendation based on the search results. Also related musucle group exercises and body part exercises.</p>
+<h1>API View</h1>
+<h3>Exercise DB API</h3>
+<p>A database API containing 1300+ exercises with body part, target muscle equipment necessary, and a form and follow-through animation. If you wanna to checkout the documentation <a href="https://v2.exercisedb.io/docs">click here</a></p>
+<h3>You search and Download API</h3>
+<p>This API is supported for filters like duration, upload time, etc. Also get info about channels, playlists or videos. And you can get trending video for any country you want, get all comments or related videos</p>
+<h1>Tech Stack Requirement</h1>
+<ul>
+  <li>Developemnt - React JS</li>
+  <li>State Management - Context API</li>
+  <li>Styling - Material UI and Tailwind CSS</li>
+  <li>web Bundler- Vite</li>
+</ul>
+<h1>Demonstration</h1>
+<video controls poster="FINALGYMPOSTER.png">
+  <source src="FINALGYMDEMO.mp4" type="video/mp4"  />
+</video>
+<h1>Deployment Site</h1>
+Click here to visit<a href="https://modern-react-quizz.netlify.app/">Rapid Gym</a>
