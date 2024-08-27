@@ -17,4 +17,4 @@
   <source src="FINALGYMDEMO.mp4" type="video/mp4"  />
 </video>
 <h1>Deployment Site</h1>
-Click here to visit<a href="https://modern-react-quizz.netlify.app/"> Rapid Gym</a>
+Click here to visit <a href="https://rapid-gym.netlify.app/">Rapid Gym</a>
