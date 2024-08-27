@@ -13,6 +13,10 @@
   <li>web Bundler- Vite</li>
 </ul>
 <h1>Demonstration</h1>
-[![Watch the video](https://raw.githubusercontent.com/joothika/RapidGym/main/FINALGYMPOSTER.png)](https://raw.githubusercontent.com/joothika/RapidGym/main/FINALGYMDEMO.mp4)
+
+
+https://github.com/user-attachments/assets/302a6582-5bc3-4246-8281-32048750c7bb
+
+
 <h1>Deployment Site</h1>
 Click here to visit <a href="https://rapid-gym.netlify.app/">Rapid Gym</a>
